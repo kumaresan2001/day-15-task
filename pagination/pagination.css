@@ -1,0 +1,16 @@
+.parent-pagination{
+    display: flex;
+    justify-content: center; 
+
+}
+.pagination{
+    position: fixed;
+    bottom: 100px;
+
+    
+}
+.parent-data{
+    text-align: center;
+    
+}
+
